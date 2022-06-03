@@ -35,7 +35,7 @@ T&P Helper is a Python-based application designed to automate and simplify the p
 
 ## Resources
 
--   **Executable Application**: [Download the .exe file](https://github.com/aryanbk/TnP_Helper/blob/main/TnP_Helper.exe)
+-   **Executable Application**: [Download the .exe file](https://github.com/aryanbk/tnp-helper/blob/main/TnP_Helper.exe)
 -   **Demo Video**: [Watch the demo](https://drive.google.com/drive/folders/1Nae9cBoBxf0nlgclJUtjk8epJDyWej38)
 
 ## Contact
